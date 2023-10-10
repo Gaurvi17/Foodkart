@@ -1,4 +1,4 @@
-# Foodkart
+# ~Foodkart
 <br />
 Hey!! This is a food delivery website designed using MERN STACK.
 <br />
